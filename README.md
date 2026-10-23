@@ -12,10 +12,15 @@ Reproducibility package for the IEEE Access manuscript (Access-2026-43146)
 
 1. ENVIRONMENT
 --------------
-Python:        [run: python3 --version]
-qiskit:        [run: pip3 show qiskit]
-qiskit-aer:    [run: pip3 show qiskit-aer]
-numpy, pandas, matplotlib: [run: pip3 show numpy pandas matplotlib]
+Python             3.13.14
+qiskit             2.5.1
+qiskit-aer         0.17.2
+qiskit-ibm-runtime 0.49.0
+numpy              2.5.1
+scipy              1.18.0
+matplotlib         3.11.1
+pandas             3.0.5
+Operating system   macOS 15.5
 
 Install the packages with:
     pip3 install qiskit qiskit-aer numpy pandas matplotlib
