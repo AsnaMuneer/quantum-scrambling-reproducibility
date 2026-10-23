@@ -1,0 +1,16 @@
+{
+  "mode": "HARDWARE",
+  "backend_name": "ibm_marrakesh",
+  "retrieved_at": "2026-08-22T12:56:38.925095+00:00",
+  "qubit_pair": [
+    1,
+    2
+  ],
+  "two_qubit_gate": "cz",
+  "two_qubit_gate_error": 0.0012208057183786813,
+  "two_qubit_gate_duration_s": 6.8e-08,
+  "q1_T1_s": 0.00012807512850535196,
+  "q1_T2_s": 0.00012823416324675687,
+  "q2_T1_s": 0.00023006762799057334,
+  "q2_T2_s": 0.0003687100163458118
+}
