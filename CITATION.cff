@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Quantum scrambling reproducibility package: Bell-state robustness under combined noise and unitary scrambling"
+type: software
+version: 1.0.0
+date-released: 2026-10-23
+license: MIT
+url: "https://github.com/AsnaMuneer/quantum-scrambling-reproducibility"
+repository-code: "https://github.com/AsnaMuneer/quantum-scrambling-reproducibility"
+authors:
+  - family-names: "Muneer"
+    given-names: "Asna"
+    affiliation: "Northumbria University, London, United Kingdom"
+    # orcid: "https://orcid.org/0009-0002-4336-4392"
+  - family-names: "Atif"
+    given-names: "Mahabubul Haq"
+    affiliation: "Deccan College of Engineering and Technology, Osmania University, Hyderabad, India"
+    # orcid: "https://orcid.org/0009-0002-4603-9181"
+  - family-names: "Chaudhry"
+    given-names: "Umair B."
+    affiliation: "Northumbria University, London, United Kingdom"
+    # orcid: "https://orcid.org/0000-0002-8609-8357"
