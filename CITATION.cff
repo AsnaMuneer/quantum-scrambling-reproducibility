@@ -4,10 +4,21 @@ title: "Quantum scrambling reproducibility package: Bell-state robustness under 
 type: software
 version: 1.0.0
 date-released: 2026-10-23
+doi: 10.5281/zenodo.23600822
 license: MIT
 url: "https://github.com/AsnaMuneer/quantum-scrambling-reproducibility"
 repository-code: "https://github.com/AsnaMuneer/quantum-scrambling-reproducibility"
 authors:
+  - family-names: "Muneer"
+    given-names: "Asna"
+    affiliation: "Northumbria University, London, United Kingdom"
+    orcid: "https://orcid.org/0009-0002-4336-4392"
+  - family-names: "Atif"
+    given-names: "Mahabubul Haq"
+    affiliation: "Deccan College of Engineering and Technology, Osmania University, Hyderabad, India"
+  - family-names: "Chaudhry"
+    given-names: "Umair B."
+    affiliation: "Northumbria University, London, United Kingdom"
   - family-names: "Muneer"
     given-names: "Asna"
     affiliation: "Northumbria University, London, United Kingdom"
