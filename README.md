@@ -84,5 +84,12 @@ Angles:        41 points on [0, pi] for simulations; 5 angles for hardware
 --------
 Hardware run: single backend (ibm_marrakesh), single qubit pair (1-2), single
 calibration snapshot. A second backend was not run.
+
+How to cite
+If you use this code or data, please cite the archived release:
+
+Muneer, A., Atif, M. H., & Chaudhry, U. B. (2026). Quantum scrambling reproducibility package: Bell-state robustness under combined noise and unitary scrambling (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.23600822
+
+The associated manuscript was submitted to IEEE Access (manuscript ID Access-2026-43146). The citation for the paper will be added here once it is published.
 Simulations use the composite noise model described in the manuscript. The
 gamma_eff values are phenomenological fit parameters, not device rates.
