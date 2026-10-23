@@ -54,6 +54,10 @@ run the scripts in this order from the folder that contains code/:
     python3 code/gamma_eff_uncertainty.py
     python3 code/metric_correlation.py
     python3 code/tomography_physicality.py   (MODE = "from_saved")
+   
+    hardware_validation_v2.py is a dependency, not a run step. Only
+    hardware_validation_v2_saved.py is run, which uses the saved counts and
+    needs no IBM account.
 
 4. WHICH OUTPUT SUPPORTS WHICH RESULT
 -------------------------------------
