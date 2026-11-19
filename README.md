@@ -1,5 +1,5 @@
 # quantum-scrambling-reproducibility
-Reproducibility code and data for “Comparative Evaluation of Quantum-State Metrics for Local and Correlated Unitary Scrambling Under NISQ Noise” (IEEE Access, Access-2026-43146). Simulations in Qiskit Aer, saved IBM Quantum tomography counts, and scripts to regenerate every table and figure.
+Reproducibility code and data for “Comparative Evaluation of Quantum-State Metrics for Local and Correlated Unitary Scrambling Under NISQ Noise”. Simulations in Qiskit Aer, saved IBM Quantum tomography counts, and scripts to regenerate every table and figure.
 
 This repository contains the code, saved hardware data and analysis outputs behind the manuscript Comparative Evaluation of Quantum-State Metrics for Local and Correlated Unitary Scrambling Under NISQ Noise.
 
@@ -8,7 +8,7 @@ The paper studies how fidelity, purity, concurrence and trace distance respond t
 Every simulation result can be reproduced without hardware or an IBM Quantum account. The hardware results (Tables 2 and 3, Figure 7) are reproduced from the saved tomography counts of a single run on IBM’s ibm_marrakesh backend, qubits 1–2. Run order and software versions are given here.
 
 QUANTUM-STATE METRICS UNDER UNITARY SCRAMBLING AND NISQ NOISE
-Reproducibility package for the IEEE Access manuscript (Access-2026-43146)
+Reproducibility package
 
 1. ENVIRONMENT
 --------------
